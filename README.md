@@ -5,7 +5,11 @@ This is a list of all projects submited during zkSync sponsored hackathons.
 To add your project, just create a PR and add your project in the table below following the format.
 
 
+
 ## List of projects
+
+**Ownership of these projects belongs to the correspondent team and contributors and its usage is limited by their respective license.**
+
 
 | Project name  | Description (280 chars max)      | Hackathon    | Keywords                       | Other info |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
